@@ -1,7 +1,7 @@
 {
   "name": "qiniu-js-lt",
   "jsName": "qiniu-lt",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": false,
   "description": "Javascript SDK for Qiniu Resource (Cloud) Storage AP",
   "main": "dist/qiniu.min.js",
@@ -15,20 +15,7 @@
     "type": "git",
     "url": "git@github.com:LiuTing0403/qiniu-js.git"
   },
-  "author": "sdk@qiniu.com",
-  "bugs": {
-    "url": "https://github.com/qiniu/js-sdk/issues"
-  },
-  "contributors": [
-    {
-      "name": "jinxinxin",
-      "email": "jinxinxin@qiniu.com"
-    },
-    {
-      "name": "winddies",
-      "email": "zhangheng01@qiniu.com"
-    }
-  ],
+  "author": "Ting Liu",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
