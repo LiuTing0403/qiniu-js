@@ -1,7 +1,7 @@
 {
   "name": "qiniu-js-lt",
   "jsName": "qiniu-lt",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "description": "Javascript SDK for Qiniu Resource (Cloud) Storage AP",
   "main": "dist/qiniu.min.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LiuTing0403/qiniu-js.git"
+    "url": "git+ssh://git@github.com/LiuTing0403/qiniu-js.git"
   },
   "author": "liuting0403",
   "devDependencies": {
@@ -42,5 +42,16 @@
     "webpack-dev-server": "^2.9.1",
     "webpack-merge": "^4.1.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiuTing0403/qiniu-js/issues"
+  },
+  "homepage": "https://github.com/LiuTing0403/qiniu-js#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "keywords": [
+    "qiniu-lt"
+  ]
 }
