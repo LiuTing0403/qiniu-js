@@ -1,6 +1,6 @@
 {
-  "name": "qiniu-js",
-  "jsName": "qiniu",
+  "name": "qiniu-js-lt",
+  "jsName": "qiniu-lt",
   "version": "2.2.2",
   "private": false,
   "description": "Javascript SDK for Qiniu Resource (Cloud) Storage AP",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/qiniu/js-sdk.git"
+    "url": "git@github.com:LiuTing0403/qiniu-js.git"
   },
   "author": "sdk@qiniu.com",
   "bugs": {
